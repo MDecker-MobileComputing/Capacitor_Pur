@@ -1,0 +1,6 @@
+{
+  "appId": "de.mide.capacitor.pur",
+  "appName": "Capacitor Pur",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
