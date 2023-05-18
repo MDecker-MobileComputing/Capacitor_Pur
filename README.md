@@ -1,5 +1,7 @@
 # Capacitor-App Pure #
 
+<br>
+
 Pure [Capacitor](https://capacitorjs.com/) app, i.e., app that contains only plain HTML content 
 (see folder [www](www)) without any using any other frameworks like Ionic.
 
@@ -19,4 +21,8 @@ Pure [Capacitor](https://capacitorjs.com/) app, i.e., app that contains only pla
 
 ## License ##
 
+<br>
+
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License) for the files in this repository.
+
+<br>
