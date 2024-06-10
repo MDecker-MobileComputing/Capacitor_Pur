@@ -2,8 +2,8 @@
 
 <br>
 
-Pure [Capacitor](https://capacitorjs.com/) app, i.e., app that contains only plain HTML content 
-(see folder [www](www)) without any using any other frameworks like Ionic.
+Pure [Capacitor](https://capacitorjs.com/) app, i.e., app that contains only plain Web content 
+(see folder [www/](www)) without any frameworks like Ionic.
 
 <br>
 
