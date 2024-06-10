@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Capacitor: JavaScript-Demo</title>
+    <meta charset="utf-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../mein_stil.css">
+</head>
+<body>
+
+  <h1>JavaScript-Demo: Leetspeak-Übersetzer</h1>
+
+  <p>
+     JavaScript in einer Web-Seite, die in einen Capacitor-Container verpackt ist,
+     geht auch.
+  </p>
+  <br>
+
+  <textarea id="eingabe" rows="3"></textarea>
+  <br><br>
+  <input type="submit" value="Übersetzen" onclick="return onUebersetzenButton()" >
+  &nbsp;
+  <input type="reset"  value="Zurücksetzen"   onclick="return onZuruecksetzenButton()" >
+  <br><br><br>
+
+  <div id="ergebnis"></div>
+  <br><br>
+
+  <p>
+    <a href="../index.html">Zurück zur Hauptseite</a>
+  </p>
+
+  <script src="leetspeek.js"></script>
+
+</body>
