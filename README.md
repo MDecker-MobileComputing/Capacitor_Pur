@@ -1,9 +1,9 @@
-# Capacitor-App Pure #
+# Capacitor-App "pur" #
 
 <br>
 
-Pure [Capacitor](https://capacitorjs.com/) app, i.e., app that contains only plain Web content 
-(see folder [www/](www)) without any frameworks like Ionic.
+Pure [Capacitor](https://capacitorjs.com/)-App, enthält nur "normalen" Web-Content (siehe Ordner [www/](www))
+ohne Framework wie Ionic.
 
 <br>
 
