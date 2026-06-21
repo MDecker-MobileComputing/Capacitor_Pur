@@ -2,8 +2,7 @@
 
 <br>
 
-Pure [Capacitor](https://capacitorjs.com/)-App, enthält nur "normalen" Web-Content (siehe Ordner [www/](www))
-ohne Framework wie Ionic.
+Pure [Capacitor](https://capacitorjs.com/)-App (also ohne [Ionic-Framework](https://ionicframework.com/)), enthält nur "normalen" Web-Content (siehe Ordner [www/](www)).
 
 <br>
 
