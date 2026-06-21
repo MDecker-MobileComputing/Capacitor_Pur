@@ -1,8 +1,7 @@
 "use strict";
 
 let textareaEingabe = null;
-
-let divErgebnis = null;
+let divErgebnis     = null;
 
 
 /**
